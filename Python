@@ -4,3 +4,4 @@ c=7
 sum=a+b+c
 print(sum)
 sum=(sum/2)+1
+print(sum)
