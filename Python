@@ -8,3 +8,4 @@ print(sum)
 d=sum+(a+b-c)/2
 sum=sum-d
 
+print(sum)
