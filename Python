@@ -6,3 +6,4 @@ print(sum)
 sum=(sum/2)+1
 print(sum)
 d=sum+(a+b-c)/2
+sum=
