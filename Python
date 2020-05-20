@@ -10,3 +10,4 @@ sum=sum-d
 print(d)
 print(sum)
 l=new list()
+l.add(a)
