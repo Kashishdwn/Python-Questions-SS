@@ -19,4 +19,4 @@ l.add(sum)
 print(l)
 s= new Set()
 s.add(...l)
-s.
+
